@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - P1FootL
+  - P1FootR
+  - P1HandL
+  - P1HandR
   layers:
   - Default
   - TransparentFX
