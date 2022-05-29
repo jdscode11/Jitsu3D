@@ -12,7 +12,7 @@ James D. Sullivan / JDSCode
 
 Description: 
 
-Mobile Game
+PC Game
 
 Platform(s): 
 
